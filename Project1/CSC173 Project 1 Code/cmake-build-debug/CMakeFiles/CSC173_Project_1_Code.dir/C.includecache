@@ -1,0 +1,124 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/BitSet.c
+stdlib.h
+-
+stdio.h
+-
+BitSet.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/BitSet.h
+string.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/BitSet.h
+stdbool.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/IntHashSet.c
+stdlib.h
+-
+stdbool.h
+-
+stdio.h
+-
+string.h
+-
+IntHashSet.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/IntHashSet.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/IntHashSet.h
+stdbool.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/LinkedList.c
+stdio.h
+-
+stdlib.h
+-
+LinkedList.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/LinkedList.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/LinkedList.h
+stdbool.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/Set.c
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/Set.h
+IntHashSet.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/IntHashSet.h
+BitSet.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/BitSet.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/dfa.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+dfa.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/dfa.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/dfa.h
+stdbool.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/nfa.c
+stdlib.h
+-
+math.h
+-
+stdio.h
+-
+string.h
+-
+nfa.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/nfa.h
+dfa.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/dfa.h
+LinkedList.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/LinkedList.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/nfa.h
+stdbool.h
+-
+dfa.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/dfa.h
+Set.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/Set.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/save/project1.c
+stdio.h
+-
+string.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/strdup.c
+stdlib.h
+-
+strdup.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/strdup.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/strdup.h
+string.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/tester.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+nfa.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/nfa.h
+dfa.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/dfa.h
+

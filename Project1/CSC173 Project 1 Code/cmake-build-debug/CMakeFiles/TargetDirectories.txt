@@ -1,0 +1,3 @@
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/cmake-build-debug/CMakeFiles/CSC173_Project_1_Code.dir

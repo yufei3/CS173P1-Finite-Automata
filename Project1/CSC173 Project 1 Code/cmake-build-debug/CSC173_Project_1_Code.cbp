@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CSC173_Project_1_Code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSC173_Project_1_Code">
+				<Option output="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/cmake-build-debug/CSC173_Project_1_Code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSC173_Project_1_Code"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSC173_Project_1_Code/fast">
+				<Option output="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/cmake-build-debug/CSC173_Project_1_Code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSC173_Project_1_Code/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project\ 1-Yufei\ Zhao/CSC173\ Project\ 1\ Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/BitSet.c">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/BitSet.h">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/IntHashSet.c">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/IntHashSet.h">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/LinkedList.c">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/LinkedList.h">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/Set.c">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/Set.h">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/dfa.c">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/dfa.h">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/nfa.c">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/nfa.h">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/save/project1.c">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/strdup.c">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/strdup.h">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/tester.c">
+			<Option target="CSC173_Project_1_Code"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project1/Project 1-Yufei Zhao/CSC173 Project 1 Code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
